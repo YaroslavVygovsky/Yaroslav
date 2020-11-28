@@ -1,0 +1,96 @@
+.a{
+    width: 240px;
+    background-color: red;
+    height: 50px;
+}
+.b{
+    width: 240px;
+    background-color: green;
+    height: 50px;
+}
+.c{
+    width: 240px;
+    background-color: blue;
+    height: 50px;
+}
+.d{
+    width: 80px;
+    background-color: red;
+    height: 50px;
+    display: inline-block;
+    top: 20px;
+    position: relative
+}
+.e{
+    width: 80px;
+    background-color: green;
+    height: 50px;
+    left: 0px;
+    display: inline-block;
+    top: 178px;
+    left: 88px;
+    position: absolute
+}
+.f{
+    width: 80px;
+    background-color: blue;
+    height: 50px;
+    left: 0px;
+    display: inline-block;
+    top: 178px;
+    left: 168px;
+    position: absolute
+}
+.j{
+    width: 240px;
+    background-color: yellow;
+    height: 50px;
+    position: absolute;
+    top: 228px;
+}
+.h{
+    width: 120px;
+    background-color: grey;
+    height: 50px;
+    position: absolute;
+    top: 278px;
+}
+.i{
+    width: 120px;
+    background-color: black;
+    height: 50px;
+    position: absolute;
+    top: 278px;
+    left: 128px;
+}
+.k{
+    width: 285px;
+    background-color: #AFF06C;
+    height: 95px;
+    position: absolute;
+    top: 348px;
+}
+.l{
+    width: 75px;
+    background-color: red;
+    height: 75px;
+    position: absolute;
+    top: 358px;
+    left: 20px;
+}
+.m{
+    width: 75px;
+    background-color: green;
+    height: 75px;
+    position: absolute;
+    top: 358px;
+    left: 115px;
+}
+.n{
+    width: 75px;
+    background-color: blue;
+    height: 75px;
+    position: absolute;
+    top: 358px;
+    left: 210px;
+}
