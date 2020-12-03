@@ -1,0 +1,9 @@
+div{
+    width: 1000px;
+    height: 150px;
+    justify-content: space-around;
+}
+a:hover{
+    transition: 2s;
+    color: crimson;
+}
